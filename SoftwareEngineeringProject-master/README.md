@@ -3,6 +3,16 @@
 ![gameplay-1](https://user-images.githubusercontent.com/31595883/61267220-9c24d480-a75c-11e9-88f9-07c2b18f9bfc.jpg)
 ![gameplay-2](https://user-images.githubusercontent.com/31595883/61267221-9c24d480-a75c-11e9-9340-f3d59516dfd6.jpg)
 
+## Tools
+1. Unity
+2. C#
+3. Travis CI
+4. Agile
+5. Zenhub
+6. Photoshop CS6
+
+## After First Sprint on 10/17/17
+
 I developed the intial game demo and added enemies. Currently working on creating a template in scripts that allows us to produce levels easily by giving access to "difficulty" values and keeping core data that persist through levels or scences -Justin
 
 Created menu for the game and am currently working on a new scene to call inbetween levels to transition them - Devante
