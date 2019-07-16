@@ -1,5 +1,10 @@
 # cs3398-latte-f2017
 
+![Final-Boss-Background-No-stars](https://user-images.githubusercontent.com/31595883/61266717-b9f13a00-a75a-11e9-9a21-92ff42b0efe7.jpg)
+![Level-2-Background](https://user-images.githubusercontent.com/31595883/61266718-b9f13a00-a75a-11e9-96a2-93e7ce0dd0f4.jpg)
+![Level-3-Background](https://user-images.githubusercontent.com/31595883/61266719-ba89d080-a75a-11e9-83e2-a715e96f12fa.jpg)
+![MenuBackground2](https://user-images.githubusercontent.com/31595883/61266754-e9a04200-a75a-11e9-9b91-d99043b470ce.jpg)
+
 I developed the intial game demo and added enemies. Currently working on creating a template in scripts that allows us to produce levels easily by giving access to "difficulty" values and keeping core data that persist through levels or scences -Justin
 
 Created menu for the game and am currently working on a new scene to call inbetween levels to transition them - Devante
