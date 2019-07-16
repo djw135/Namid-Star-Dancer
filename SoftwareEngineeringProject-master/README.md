@@ -1,7 +1,5 @@
 ## cs3398-latte-f2017 
-![MenuBackground2](https://user-images.githubusercontent.com/31595883/61266754-e9a04200-a75a-11e9-9b91-d99043b470ce.jpg)
 ![gameplay-5](https://user-images.githubusercontent.com/31595883/61267218-9c24d480-a75c-11e9-949e-369e7136b42d.jpg)
-![gameplay-3](https://user-images.githubusercontent.com/31595883/61267219-9c24d480-a75c-11e9-9c29-a16807e42d62.jpg)
 ![gameplay-1](https://user-images.githubusercontent.com/31595883/61267220-9c24d480-a75c-11e9-88f9-07c2b18f9bfc.jpg)
 ![gameplay-2](https://user-images.githubusercontent.com/31595883/61267221-9c24d480-a75c-11e9-9340-f3d59516dfd6.jpg)
 
