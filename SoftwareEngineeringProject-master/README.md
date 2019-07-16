@@ -1,9 +1,10 @@
 # cs3398-latte-f2017
 
-![Final-Boss-Background-No-stars](https://user-images.githubusercontent.com/31595883/61266717-b9f13a00-a75a-11e9-9a21-92ff42b0efe7.jpg)
-![Level-2-Background](https://user-images.githubusercontent.com/31595883/61266718-b9f13a00-a75a-11e9-96a2-93e7ce0dd0f4.jpg)
-![Level-3-Background](https://user-images.githubusercontent.com/31595883/61266719-ba89d080-a75a-11e9-83e2-a715e96f12fa.jpg)
 ![MenuBackground2](https://user-images.githubusercontent.com/31595883/61266754-e9a04200-a75a-11e9-9b91-d99043b470ce.jpg)
+![gameplay-5](https://user-images.githubusercontent.com/31595883/61267218-9c24d480-a75c-11e9-949e-369e7136b42d.jpg)
+![gameplay-3](https://user-images.githubusercontent.com/31595883/61267219-9c24d480-a75c-11e9-9c29-a16807e42d62.jpg)
+![gameplay-1](https://user-images.githubusercontent.com/31595883/61267220-9c24d480-a75c-11e9-88f9-07c2b18f9bfc.jpg)
+![gameplay-2](https://user-images.githubusercontent.com/31595883/61267221-9c24d480-a75c-11e9-9340-f3d59516dfd6.jpg)
 
 I developed the intial game demo and added enemies. Currently working on creating a template in scripts that allows us to produce levels easily by giving access to "difficulty" values and keeping core data that persist through levels or scences -Justin
 
