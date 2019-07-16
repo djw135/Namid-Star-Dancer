@@ -1,5 +1,4 @@
-# cs3398-latte-f2017 -------------------------------------------------------------------------------------------------------------------
-
+## cs3398-latte-f2017 
 ![MenuBackground2](https://user-images.githubusercontent.com/31595883/61266754-e9a04200-a75a-11e9-9b91-d99043b470ce.jpg)
 ![gameplay-5](https://user-images.githubusercontent.com/31595883/61267218-9c24d480-a75c-11e9-949e-369e7136b42d.jpg)
 ![gameplay-3](https://user-images.githubusercontent.com/31595883/61267219-9c24d480-a75c-11e9-9c29-a16807e42d62.jpg)
@@ -15,7 +14,7 @@ I have been working on developing new graphics for the game in Blender and Magic
 I have been working on creating new audio files for the game such as background music and sound effects for various aspects - Josh
 
 
-# After Second Sprint on 11/8/17 -------------------------------------------------------------------------------------------------------
+## After Second Sprint on 11/8/17 
 
 I have wrote all the core game scripts and and created many of the core game aspects such as enemies, hazards, lighting ext.. Currently working on producing more in depth levels while also using Josh's hazard spawn designs. -Justin
 
@@ -25,7 +24,7 @@ I have made numerous object and graphic files for the game, some including the p
 
 Devloped menu and level music for the game as well as wrote numerous pattern based spawning methods for the hazards in the game to create a more "bullet hell" feel. I am currently working on integrating these patterns into a single gamecontroller so that we can use them in the same level for a boss encounter- Josh
 
-# After Third Sprint on 12/4/17 --------------------------------------------------------------------------------------------------------
+## After Third Sprint on 12/4/17 
 
 I have wrote all the core game scripts and and created many of the core game aspects such as enemies, hazards, lighting ext.. During this last sprint, I changed the enemy/hazaerd spawn patterns of each level, added a boss level, integrated music and graphics, added values such as player and boss hit  points and made them visible while also creating a boss ship game object that fires and interacts with the player in a number of ways. -Justin
 
