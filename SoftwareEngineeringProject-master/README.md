@@ -3,6 +3,9 @@
 ![gameplay-1](https://user-images.githubusercontent.com/31595883/61267220-9c24d480-a75c-11e9-88f9-07c2b18f9bfc.jpg)
 ![gameplay-2](https://user-images.githubusercontent.com/31595883/61267221-9c24d480-a75c-11e9-9340-f3d59516dfd6.jpg)
 
+## Goal
+To develop a great interactive video game, while using new frameworks, languages, and other tools. 
+
 ## Tools
 1. Unity
 2. C#
